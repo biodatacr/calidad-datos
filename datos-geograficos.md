@@ -13,4 +13,4 @@ Entre los servicios, se encuentra una serie de diccionarios geográficos (gazett
 ## GEOLocate
 [GEOLocate](https://www.geo-locate.org/) es una plataforma para la georreferenciación de datos de colecciones de historia natural. Fue creada en la Universidad de Yale.
 
-La georreferenciación puede realizarse de forma colaborativa, ya sea a través de interfaces web, como la que se muestra en la figura 3.4, o de servicios web.
+La georreferenciación puede realizarse de forma colaborativa, ya sea a través de interfaces web o de servicios web.
